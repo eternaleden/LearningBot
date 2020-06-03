@@ -1,0 +1,25 @@
+{
+  "name": "learningbot",
+  "version": "1.0.0",
+  "description": "Teaching Nodejs through Discord Bot creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RevenantEverest/LearningBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RevenantEverest/LearningBot/issues"
+  },
+  "homepage": "https://github.com/RevenantEverest/LearningBot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
